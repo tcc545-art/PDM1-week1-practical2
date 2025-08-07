@@ -14,10 +14,11 @@ This practical is split into four stages:
 2. Basic use of shapes and greyscale colours.
 3. The <code>rectMode()</code> function.
 4. RGB and RGBA colours.
-5. Putting it altogether.
+5. Putting it all together.
 
 
 ## Instructions
+If you have not already done so, follow the steps given on the VLE in Week 1 Practical 1 (How to work on programming exercises) to create a new repo from this template and clone it to your computer.
 
 **1: View the instructions for each exercise**
 
